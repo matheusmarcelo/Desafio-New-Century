@@ -6,6 +6,7 @@ Projeto do tipo console criado para calcular o reajuste salarial do funcionário
 
 ### Relatório
 | Faixa Salarial               | Reajuste |
+|------------------------------|----------|
 | Até R$ 280,00                |    20%   |
 | De R$ 280,01 até R$ 700,00   |    15%   |
 | De R$ 700,01 até R$ 1.500,00 |    10%   |
