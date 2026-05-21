@@ -103,3 +103,17 @@ C:\ProjetosProgramacao\Projeto New Century\projeto_console.tests\obj\Debug\net8.
 C:\ProjetosProgramacao\Projeto New Century\projeto_console.tests\obj\Debug\net8.0\projeto_console.Tests.pdb
 C:\ProjetosProgramacao\Projeto New Century\projeto_console.tests\obj\Debug\net8.0\projeto_console.Tests.genruntimeconfig.cache
 C:\ProjetosProgramacao\Projeto New Century\projeto_console.tests\obj\Debug\net8.0\ref\projeto_console.Tests.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\api.deps.json
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\api.runtimeconfig.json
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\appsettings.json
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\api.exe
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\Moq.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\api.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\bin\Debug\net8.0\api.pdb
+C:\ProjetosProgramacao\Projeto New Century\projeto_console.Tests\obj\Debug\net8.0\projeto_console.Tests.sourcelink.json

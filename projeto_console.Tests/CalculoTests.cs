@@ -2,7 +2,7 @@ using projeto_console;
 
 namespace projeto_console.Tests;
 
-public class UnitTest1
+public class CalculoTests
 {
     [Theory]
     [InlineData(280, 20)]

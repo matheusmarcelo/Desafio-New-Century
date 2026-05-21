@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosProgramacao\\New Century\\Desafio-New-Century\\api\\Api.csproj": {}
+    "C:\\ProjetosProgramacao\\Projeto New Century\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosProgramacao\\New Century\\Desafio-New-Century\\api\\Api.csproj": {
+    "C:\\ProjetosProgramacao\\Projeto New Century\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosProgramacao\\New Century\\Desafio-New-Century\\api\\Api.csproj",
-        "projectName": "Api",
-        "projectPath": "C:\\ProjetosProgramacao\\New Century\\Desafio-New-Century\\api\\Api.csproj",
-        "packagesPath": "C:\\Users\\arqge\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosProgramacao\\New Century\\Desafio-New-Century\\api\\obj\\",
+        "projectUniqueName": "C:\\ProjetosProgramacao\\Projeto New Century\\api\\api.csproj",
+        "projectName": "api",
+        "projectPath": "C:\\ProjetosProgramacao\\Projeto New Century\\api\\api.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosProgramacao\\Projeto New Century\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\arqge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -26,3 +26,4 @@ C:\ProjetosProgramacao\Projeto New Century\projeto_console\obj\Debug\net8.0\refi
 C:\ProjetosProgramacao\Projeto New Century\projeto_console\obj\Debug\net8.0\Console.pdb
 C:\ProjetosProgramacao\Projeto New Century\projeto_console\obj\Debug\net8.0\Console.genruntimeconfig.cache
 C:\ProjetosProgramacao\Projeto New Century\projeto_console\obj\Debug\net8.0\ref\Console.dll
+C:\ProjetosProgramacao\Projeto New Century\projeto_console\obj\Debug\net8.0\Console.sourcelink.json
