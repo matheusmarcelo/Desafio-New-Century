@@ -2,7 +2,7 @@
 Este projeto é destinado ao desafio da New Century para a vaga de Desenvolvedor.
 
 ## Sobre o projeto
-Projeto do tipo console criado para calcular o reajuste salarial do funcionário. O sistema recebe o salário atual do funcionário e aplica automaticamente o percentual de aumento correspondente à faixa salarial, exibindo no final um relatório completo do reajuste. 
+Projeto criado para calcular o reajuste salarial do funcionário. O sistema recebe o salário atual do funcionário e aplica automaticamente o percentual de aumento correspondente à faixa salarial, exibindo no final um relatório completo do reajuste. 
 
 ### Regra de negócio
 | Faixa Salarial               | Reajuste |
